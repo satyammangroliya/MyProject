@@ -1,0 +1,1 @@
+<h1>about page</h1><?php /**PATH C:\xampp\htdocs\Learning\resources\views/about.blade.php ENDPATH**/ ?>

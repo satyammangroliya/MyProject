@@ -1,0 +1,1 @@
+<h1>Courses page</h1><?php /**PATH C:\xampp\htdocs\Learning\resources\views/courses.blade.php ENDPATH**/ ?>
